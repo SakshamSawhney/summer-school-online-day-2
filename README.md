@@ -1,6 +1,6 @@
 # summer-school-online-day-2
 
-This file explains the use of different CSS types and selectors used in the assignment:
+"This file explains the use of different CSS types and selectors used in the assignment:
 
 1. CSS Types Used:
    - Inline CSS: Applied to the main profile card using the `style` attribute to set the background color.
@@ -17,4 +17,4 @@ This file explains the use of different CSS types and selectors used in the assi
 
 Bonus:
 - Hover effect on contact links is implemented using `a:hover`.
-- The `.profile-card` class adds shadow and border radius for visual appeal.
+- The `.profile-card` class adds shadow and border radius for visual appeal."
